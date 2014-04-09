@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-pxa
+END
+mmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-pxa/mmc.h
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-pxa/hardware.h
+END
+bitfield.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-pxa/bitfield.h
+END
+pxa-regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-pxa/pxa-regs.h
+END

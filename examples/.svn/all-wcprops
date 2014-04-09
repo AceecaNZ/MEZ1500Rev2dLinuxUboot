@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples
+END
+test_burst.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/test_burst.c
+END
+stubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/stubs.c
+END
+README.smc91111_eeprom
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/README.smc91111_eeprom
+END
+eepro100_eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/eepro100_eeprom.c
+END
+82559_eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/82559_eeprom.c
+END
+test_burst.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/test_burst.h
+END
+x86-testapp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/x86-testapp.c
+END
+test_burst_lib.S
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/test_burst_lib.S
+END
+nios.lds
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/nios.lds
+END
+mips.lds
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/mips.lds
+END
+hello_world.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/hello_world.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/timer.c
+END
+ppc_setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/ppc_setjmp.S
+END
+smc91111_eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/smc91111_eeprom.c
+END
+sched.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/sched.c
+END
+mem_to_mem_idma2intr.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/mem_to_mem_idma2intr.c
+END
+ppc_longjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/ppc_longjmp.S
+END
+nios2.lds
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/nios2.lds
+END
+interrupt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/interrupt.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/examples/Makefile
+END

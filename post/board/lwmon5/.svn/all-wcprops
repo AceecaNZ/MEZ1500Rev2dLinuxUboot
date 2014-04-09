@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/board/lwmon5
+END
+watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/board/lwmon5/watchdog.c
+END
+dspic.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/board/lwmon5/dspic.c
+END
+dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/board/lwmon5/dsp.c
+END
+sysmon.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/board/lwmon5/sysmon.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/board/lwmon5/Makefile
+END
+fpga.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/board/lwmon5/fpga.c
+END
+gdc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/board/lwmon5/gdc.c
+END

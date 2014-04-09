@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/dma
+END
+MCD_dmaApi.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/dma/MCD_dmaApi.c
+END
+MCD_tasks.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/dma/MCD_tasks.c
+END
+MCD_tasksInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/dma/MCD_tasksInit.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/dma/Makefile
+END

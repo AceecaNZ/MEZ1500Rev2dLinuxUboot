@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-at91rm9200
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-at91rm9200/hardware.h
+END
+AT91RM9200.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-at91rm9200/AT91RM9200.h
+END

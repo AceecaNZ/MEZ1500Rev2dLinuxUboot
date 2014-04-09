@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/nand_legacy
+END
+nand_legacy.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/nand_legacy/nand_legacy.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/nand_legacy/Makefile
+END

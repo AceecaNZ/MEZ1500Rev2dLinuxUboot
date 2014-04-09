@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd
+END
+cfi_flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/cfi_flash.c
+END
+dataflash.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/dataflash.c
+END
+jedec_flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/jedec_flash.c
+END
+mw_eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/mw_eeprom.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/Makefile
+END
+at45.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/at45.c
+END

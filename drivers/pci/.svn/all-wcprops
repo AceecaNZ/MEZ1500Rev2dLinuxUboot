@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pci
+END
+fsl_pci_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pci/fsl_pci_init.c
+END
+pci_auto.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pci/pci_auto.c
+END
+tsi108_pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pci/tsi108_pci.c
+END
+w83c553f.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pci/w83c553f.c
+END
+pci_sh4.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pci/pci_sh4.c
+END
+pci_sh7751.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pci/pci_sh7751.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pci/pci.c
+END
+pci_sh7780.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pci/pci_sh7780.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pci/Makefile
+END
+pci_indirect.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pci/pci_indirect.c
+END

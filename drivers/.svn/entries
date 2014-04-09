@@ -1,0 +1,79 @@
+10
+
+dir
+22
+https://aceeca.svn.cvsdude.com/linux/MEZ1500/rev2c/uboot-1.3.2/drivers
+https://aceeca.svn.cvsdude.com/linux
+
+
+
+2011-02-11T00:09:48.970199Z
+5
+stevevenroy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7196dae3-2e6f-48cc-9ae5-3c8101604359
+
+serial
+dir
+
+mtd
+dir
+
+net
+dir
+
+hwmon
+dir
+
+rtc
+dir
+
+usb
+dir
+
+block
+dir
+
+misc
+dir
+
+spi
+dir
+
+pcmcia
+dir
+
+input
+dir
+
+dma
+dir
+
+bios_emulator
+dir
+
+qe
+dir
+
+video
+dir
+
+pci
+dir
+
+i2c
+dir
+

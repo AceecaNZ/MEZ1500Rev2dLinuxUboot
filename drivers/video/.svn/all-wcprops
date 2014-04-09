@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video
+END
+videomodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/videomodes.c
+END
+sed156x.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/sed156x.c
+END
+videomodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/videomodes.h
+END
+sm501.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/sm501.c
+END
+ct69000.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/ct69000.c
+END
+s3c2410_fb.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/s3c2410_fb.c
+END
+cfb_console.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/cfb_console.c
+END
+ati_radeon_fb.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/ati_radeon_fb.c
+END
+sed13806.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/sed13806.c
+END
+mb862xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/mb862xx.c
+END
+smedia3362.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/smedia3362.c
+END
+ati_radeon_fb.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/ati_radeon_fb.h
+END
+ati_ids.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/ati_ids.h
+END
+smiLynxEM.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/smiLynxEM.c
+END
+smedia3362.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/smedia3362.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/video/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/onenand
+END
+onenand_bbt.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/onenand/onenand_bbt.c
+END
+onenand_uboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/onenand/onenand_uboot.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/onenand/Makefile
+END
+onenand_base.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/mtd/onenand/onenand_base.c
+END

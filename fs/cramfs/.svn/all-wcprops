@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/cramfs
+END
+uncompress.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/cramfs/uncompress.c
+END
+cramfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/cramfs/cramfs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/cramfs/Makefile
+END

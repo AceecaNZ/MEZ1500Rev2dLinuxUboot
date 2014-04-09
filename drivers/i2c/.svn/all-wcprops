@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/i2c
+END
+omap24xx_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/i2c/omap24xx_i2c.c
+END
+omap1510_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/i2c/omap1510_i2c.c
+END
+fsl_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/i2c/fsl_i2c.c
+END
+mxc_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/i2c/mxc_i2c.c
+END
+tsi108_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/i2c/tsi108_i2c.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/i2c/Makefile
+END

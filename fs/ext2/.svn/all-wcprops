@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/ext2
+END
+dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/ext2/dev.c
+END
+ext2fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/ext2/ext2fs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/ext2/Makefile
+END

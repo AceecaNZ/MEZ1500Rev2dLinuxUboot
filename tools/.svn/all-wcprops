@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/linux/!svn/ver/8/MEZ1500/rev2c/uboot-1.3.2/tools
+END
+bmp_logo.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/bmp_logo.c
+END
+ncb.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/ncb.c
+END
+gen_eth_addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/gen_eth_addr.c
+END
+inca-swap-bytes.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/inca-swap-bytes.c
+END
+mkimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/mkimage.c
+END
+mkudfu
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/linux/!svn/ver/8/MEZ1500/rev2c/uboot-1.3.2/tools/mkudfu
+END
+img2srec.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/img2srec.c
+END
+mpc86x_clk.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/mpc86x_clk.c
+END
+mkimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/mkimage.h
+END
+fdt_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/fdt_host.h
+END
+envcrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/envcrc.c
+END
+img2brec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/img2brec.sh
+END
+ubsha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/ubsha1.c
+END
+setlocalversion
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/setlocalversion
+END
+mkudfu.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/mkudfu.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/Makefile
+END
+Makefile.win32
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/tools/Makefile.win32
+END

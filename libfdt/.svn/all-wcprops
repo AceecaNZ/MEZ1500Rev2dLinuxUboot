@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/libfdt
+END
+fdt_strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/libfdt/fdt_strerror.c
+END
+fdt_rw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/libfdt/fdt_rw.c
+END
+libfdt_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/libfdt/libfdt_internal.h
+END
+fdt_sw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/libfdt/fdt_sw.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/libfdt/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/libfdt/README
+END
+fdt_wip.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/libfdt/fdt_wip.c
+END
+fdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/libfdt/fdt.c
+END
+fdt_ro.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/libfdt/fdt_ro.c
+END

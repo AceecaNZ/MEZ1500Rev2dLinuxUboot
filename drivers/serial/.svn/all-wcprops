@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial
+END
+s3c4510b_uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/s3c4510b_uart.c
+END
+usbtty.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/usbtty.h
+END
+serial_pl011.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/serial_pl011.h
+END
+mcfuart.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/mcfuart.c
+END
+s3c4510b_uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/s3c4510b_uart.h
+END
+ns9750_serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/ns9750_serial.c
+END
+serial_sh.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/serial_sh.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/serial.c
+END
+serial_xuartlite.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/serial_xuartlite.c
+END
+atmel_usart.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/atmel_usart.c
+END
+ns16550.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/ns16550.c
+END
+atmel_usart.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/atmel_usart.h
+END
+serial_max3100.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/serial_max3100.c
+END
+usbtty.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/usbtty.c
+END
+serial_pl010.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/serial_pl010.c
+END
+serial_pl011.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/serial_pl011.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/serial/Makefile
+END

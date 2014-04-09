@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/reiserfs
+END
+dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/reiserfs/dev.c
+END
+reiserfs_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/reiserfs/reiserfs_private.h
+END
+reiserfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/reiserfs/reiserfs.c
+END
+mode_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/reiserfs/mode_string.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/reiserfs/Makefile
+END

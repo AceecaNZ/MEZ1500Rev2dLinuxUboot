@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/api
+END
+api_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/api/api_net.c
+END
+api_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/api/api_private.h
+END
+api.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/api/api.c
+END
+api_platform-arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/api/api_platform-arm.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/api/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/api/README
+END
+api_platform-ppc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/api/api_platform-ppc.c
+END
+api_storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/api/api_storage.c
+END

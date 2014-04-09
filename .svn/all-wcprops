@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/linux/!svn/ver/22/MEZ1500/rev2c/uboot-1.3.2
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/build
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/rules.mk
+END
+dfu-uboot
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/dfu-uboot
+END
+MAKEALL
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/MAKEALL
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/CHANGELOG
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/COPYING
+END
+CHANGELOG-before-U-Boot-1.1.5
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/CHANGELOG-before-U-Boot-1.1.5
+END
+arm_config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/arm_config.mk
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/MAINTAINERS
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/config.mk
+END
+mkconfig
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/mkconfig
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/CREDITS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/Makefile
+END

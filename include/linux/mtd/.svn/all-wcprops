@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd
+END
+nand_ecc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/nand_ecc.h
+END
+ndfc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/ndfc.h
+END
+mtd-abi.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/mtd-abi.h
+END
+nand_ids.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/nand_ids.h
+END
+bbm.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/bbm.h
+END
+nand.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/nand.h
+END
+onenand.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/onenand.h
+END
+onenand_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/onenand_regs.h
+END
+compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/compat.h
+END
+nftl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/nftl.h
+END
+mtd.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/mtd.h
+END
+nand_legacy.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/nand_legacy.h
+END
+fsl_upm.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/fsl_upm.h
+END
+doc2000.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/linux/mtd/doc2000.h
+END

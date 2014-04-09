@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/fdos
+END
+dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/fdos/dev.c
+END
+fdos.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/fdos/fdos.h
+END
+vfat.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/fdos/vfat.c
+END
+fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/fdos/fs.c
+END
+subdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/fdos/subdir.c
+END
+dos.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/fdos/dos.h
+END
+fat.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/fdos/fat.c
+END
+fdos.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/fdos/fdos.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/fs/fdos/Makefile
+END

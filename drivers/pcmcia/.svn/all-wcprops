@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pcmcia
+END
+ti_pci1410a.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pcmcia/ti_pci1410a.c
+END
+i82365.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pcmcia/i82365.c
+END
+mpc8xx_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pcmcia/mpc8xx_pcmcia.c
+END
+pxa_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pcmcia/pxa_pcmcia.c
+END
+marubun_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pcmcia/marubun_pcmcia.c
+END
+rpx_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pcmcia/rpx_pcmcia.c
+END
+tqm8xx_pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pcmcia/tqm8xx_pcmcia.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/pcmcia/Makefile
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/qe
+END
+uccf.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/qe/uccf.c
+END
+uec.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/qe/uec.h
+END
+uec_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/qe/uec_phy.h
+END
+qe.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/qe/qe.c
+END
+uccf.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/qe/uccf.h
+END
+qe.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/qe/qe.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/qe/Makefile
+END
+uec.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/qe/uec.c
+END
+uec_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/qe/uec_phy.c
+END
+fdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/drivers/qe/fdt.c
+END

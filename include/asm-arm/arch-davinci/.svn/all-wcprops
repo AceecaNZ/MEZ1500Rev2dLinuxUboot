@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-davinci
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-davinci/hardware.h
+END
+i2c_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-davinci/i2c_defs.h
+END
+emif_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-davinci/emif_defs.h
+END
+nand_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-davinci/nand_defs.h
+END
+emac_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/include/asm-arm/arch-davinci/emac_defs.h
+END

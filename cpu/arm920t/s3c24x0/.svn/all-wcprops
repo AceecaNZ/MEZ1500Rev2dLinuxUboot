@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0
+END
+mmc.rar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/mmc.rar
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/interrupts.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/serial.c
+END
+nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/nand.c
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/speed.c
+END
+usb_ohci.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/usb_ohci.h
+END
+cmd_s3c24xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/cmd_s3c24xx.c
+END
+usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/usb.c
+END
+nand_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/nand_read.c
+END
+usb_ohci.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/usb_ohci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/Makefile
+END
+mmc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/mmc.c
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/cpu/arm920t/s3c24x0/i2c.c
+END

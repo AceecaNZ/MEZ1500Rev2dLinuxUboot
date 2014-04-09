@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/cpu/mpc8xx
+END
+watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/cpu/mpc8xx/watchdog.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/cpu/mpc8xx/cache.c
+END
+spr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/cpu/mpc8xx/spr.c
+END
+ether.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/cpu/mpc8xx/ether.c
+END
+usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/cpu/mpc8xx/usb.c
+END
+cache_8xx.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/cpu/mpc8xx/cache_8xx.S
+END
+uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/cpu/mpc8xx/uart.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/linux/!svn/ver/5/MEZ1500/rev2c/uboot-1.3.2/post/cpu/mpc8xx/Makefile
+END
